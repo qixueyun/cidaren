@@ -1,0 +1,8 @@
+llama.cpp-LICENSE.txt: https://raw.githubusercontent.com/ggml-org/llama.cpp/b11998/LICENSE
+Qwen2.5-LICENSE.txt: https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-GGUF/raw/main/LICENSE
+Whisper-LICENSE.txt: https://raw.githubusercontent.com/openai/whisper/main/LICENSE
+Tcl-license.txt: https://raw.githubusercontent.com/tcltk/tcl/core-8-6-branch/license.terms
+Tk-license.txt: https://raw.githubusercontent.com/tcltk/tk/core-8-6-branch/license.terms
+Python: https://www.python.org/ftp/python/3.13.5/ (license in runtime/LICENSE.txt)
+Dependencies: exact versions and licenses are bundled in .deps/*dist-info.
+Speech weights: https://huggingface.co/Systran/faster-whisper-tiny.en

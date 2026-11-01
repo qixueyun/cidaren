@@ -1,0 +1,23 @@
+{
+  "window_title": "微信",
+  "window_process": "WeChatAppEx.exe",
+  "expected_words": 30,
+  "engine_dir": "models/llama-vulkan",
+  "model_device": "auto",
+  "gpu_layers": 99,
+  "answer_model": "models/qwen2.5-7b-instruct-q4_k_m-00001-of-00002.gguf",
+  "whisper_model": "models/whisper-tiny-en",
+  "fast_mode": true,
+  "model_max_tokens": 24,
+  "speech_beam_size": 1,
+  "speech_threads": 4,
+  "min_confidence": 0.92,
+  "max_rounds": 100,
+  "max_stagnant_rounds": 20,
+  "audio_seconds": 2.2,
+  "settle_seconds": 0.15,
+  "loop_seconds": 0.1,
+  "feedback_poll_seconds": 1.0,
+  "ocr_angle_cls": false,
+  "no_feedback_seconds": 3
+}
